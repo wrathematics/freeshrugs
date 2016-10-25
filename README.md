@@ -1,4 +1,4 @@
-# (FREE SHRUGS)[http://freeshrugs.com]
+# <a href="http://freeshrugs.com">FREE SHRUGS</a>
 
 ![](free_shrugs_dot_com.jpg)
 
